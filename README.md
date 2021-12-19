@@ -6,6 +6,7 @@ Whether you like the lighter or darker colors on your device, Windows 10/11 make
 
 If switching between dark and light (and vice versa) is an option you would like to have on your device, you can create an automated process using the Task Scheduler and a few simple PowerShell commands to modify the Registry to switch to light mode during the day and dark mode at night, automatically.
 We walk you through the steps to configure your device to switch between the light and dark system modes depending on the time of day, using a few PowerShell commands and Task Scheduler.
+![image](https://user-images.githubusercontent.com/71692310/146687291-e612a1ee-1b3e-4379-a3cd-db528ce9252e.png)
 
 AUTOMATIC SETUP
 
